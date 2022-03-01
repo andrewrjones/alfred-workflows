@@ -1,0 +1,3 @@
+[submodule "zoom-calendar.alfredworkflow"]
+	path = zoom-calendar.alfredworkflow
+	url = https://github.com/zerowidth/zoom-calendar.alfredworkflow.git
