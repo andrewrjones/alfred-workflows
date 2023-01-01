@@ -7,7 +7,7 @@ See [my blog post](https://andrew-jones.com/blog/alfred-workflow-copy-url-to-cli
 
 Credits:
 * Shane Stanley, who [posted some AppleScript](https://forum.latenightsw.com/t/html-styled-text-in-a-variable/2285/4) I used as a base
-* Logo from [here](https://www.emoji.co.uk/files/emoji-one/objects-emoji-one/1922-bookmark.png)
+* Logo from [SF Symbols](https://developer.apple.com/sf-symbols/)
 
 ## Also
 
