@@ -27,6 +27,6 @@ sudo pip3 install titlecase
 Credits:
 * Logo from [SF Symbols](https://developer.apple.com/sf-symbols/)
 
-## Also
+# Alfred Snippets
 
 * [The Alfred Emoji Pack](https://joelcalifa.com/blog/alfred-emoji-snippet-pack/)
