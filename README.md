@@ -8,6 +8,8 @@ A workflow that allows me to quickly switch the audio output on my Mac.
 
 ## Copy Safari URL to clipboard
 
+Copies the Safari URL to the clipboard, either as smart text (⌘⌥C) or Markdown (⌘⌥L).
+
 See [my blog post](https://andrew-jones.com/blog/alfred-workflow-copy-url-to-clipboard-as-rich-text/) for more details.
 
 Credits:
