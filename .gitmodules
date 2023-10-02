@@ -1,3 +1,6 @@
 [submodule "zoom-calendar.alfredworkflow"]
 	path = zoom-calendar.alfredworkflow
 	url = https://github.com/zerowidth/zoom-calendar.alfredworkflow.git
+[submodule "alfred-emoji-pack"]
+	path = alfred-emoji-pack
+	url = https://github.com/califa/alfred-emoji-pack.git
