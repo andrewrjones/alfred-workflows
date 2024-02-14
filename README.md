@@ -16,6 +16,14 @@ Credits:
 * Shane Stanley, who [posted some AppleScript](https://forum.latenightsw.com/t/html-styled-text-in-a-variable/2285/4) I used as a base
 * Logo from [SF Symbols](https://developer.apple.com/sf-symbols/)
 
+## Fancy Fonts
+
+Convert user input into unicode pseudofonts.
+
+Credits:
+* Based on https://github.com/waterrmalann/fancy-fonts-generator
+* Logo from [SF Symbols](https://developer.apple.com/sf-symbols/)
+
 ## Readtime
 
 Provides an approximate readtime of the input text. See [my blog post](https://andrew-jones.com/blog/alfred-workflow-readtime/) for more details.
